@@ -14,6 +14,13 @@ const translations = {
         welcomeMessage: 'Welcome to ENIT - National School of Engineering of Tunis',
         welcomeSubtitle: 'Your Gateway to Excellence in Engineering Education',
 
+        // ✅ NEW (CS-focused welcome)
+        csWelcomeTitle: 'Welcome Computer Science Engineering Students',
+        csWelcomeSubtitle: 'Build your future through code, systems, and innovation',
+        coding: 'Coding',
+        systems: 'Systems',
+        innovation: 'Innovation',
+
         curriculum: 'Curriculum',
         curriculumSubtitle: 'Explore all subjects for each academic year',
 
@@ -32,7 +39,6 @@ const translations = {
         semester: 'Semester',
         year: 'Year',
 
-        // ✅ NEW
         subjects: 'Subjects',
     },
 
@@ -40,6 +46,13 @@ const translations = {
         welcome: 'Bienvenue',
         welcomeMessage: 'Bienvenue à l\'ENIT - École Nationale d\'Ingénieurs de Tunis',
         welcomeSubtitle: 'Votre Portail vers l\'Excellence en Formation d\'Ingénieurs',
+
+        // ✅ NEW
+        csWelcomeTitle: 'Bienvenue aux étudiants en génie informatique',
+        csWelcomeSubtitle: 'Construisez votre avenir à travers le code, les systèmes et l’innovation',
+        coding: 'Programmation',
+        systems: 'Systèmes',
+        innovation: 'Innovation',
 
         curriculum: 'Programme d\'Études',
         curriculumSubtitle: 'Explorez toutes les matières pour chaque année académique',
@@ -59,7 +72,6 @@ const translations = {
         semester: 'Semestre',
         year: 'Année',
 
-        // ✅ NEW
         subjects: 'Matières',
     },
 
@@ -67,6 +79,13 @@ const translations = {
         welcome: 'مرحباً',
         welcomeMessage: 'مرحباً بكم في المدرسة الوطنية للمهندسين بتونس',
         welcomeSubtitle: 'بوابتك نحو التميز في التعليم الهندسي',
+
+        // ✅ NEW
+        csWelcomeTitle: 'مرحبًا بطلاب هندسة الإعلامية',
+        csWelcomeSubtitle: 'ابنِ مستقبلك من خلال البرمجة والأنظمة والابتكار',
+        coding: 'البرمجة',
+        systems: 'الأنظمة',
+        innovation: 'الابتكار',
 
         curriculum: 'المناهج الدراسية',
         curriculumSubtitle: 'استكشف جميع المواد لكل سنة دراسية',
@@ -86,7 +105,6 @@ const translations = {
         semester: 'الفصل',
         year: 'السنة',
 
-        // ✅ NEW
         subjects: 'المواد',
     },
 
@@ -94,6 +112,13 @@ const translations = {
         welcome: 'Willkommen',
         welcomeMessage: 'Willkommen an der ENIT - Nationale Ingenieurschule von Tunis',
         welcomeSubtitle: 'Ihr Tor zur Exzellenz in der Ingenieurausbildung',
+
+        // ✅ NEW
+        csWelcomeTitle: 'Willkommen Informatik-Studierende',
+        csWelcomeSubtitle: 'Gestalten Sie Ihre Zukunft mit Code, Systemen und Innovation',
+        coding: 'Programmierung',
+        systems: 'Systeme',
+        innovation: 'Innovation',
 
         curriculum: 'Lehrplan',
         curriculumSubtitle: 'Entdecken Sie alle Fächer für jedes Studienjahr',
@@ -113,7 +138,6 @@ const translations = {
         semester: 'Semester',
         year: 'Jahr',
 
-        // ✅ NEW
         subjects: 'Fächer',
     },
 };
